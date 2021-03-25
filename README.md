@@ -4,7 +4,7 @@ This program explains and elaborates as to what Boone student Beeper is and how 
 
 ## Contents
 
-- [Introduction] {#introduction}
+- [Introduction] (#introduction)
   - [ What is a Beeper?] (#what-is-a-beeper)
   - [ How does it work?] (#how-does-it-work)
 - [Installation] (#installation)
