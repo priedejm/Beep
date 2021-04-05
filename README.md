@@ -9,7 +9,7 @@ This program explains and elaborates as to what Boone student Beeper is and how 
   - [ How does it work?](#how-does-it-work)
 - [Installation](#installation)
   - [Computer](#computer)
-  - [Mobile Phone](#mobile phone) 
+  - [Mobile Phone](#mobile-phone) 
 - [Instructions For Use](#intructions-for-use)
   - [Facebook](#facebook)
     - [Drivers](#drivers)
