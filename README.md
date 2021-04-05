@@ -4,22 +4,22 @@ This program explains and elaborates as to what Boone student Beeper is and how 
 
 ## Contents
 
-- [Introduction] (#introduction)
-  - [ What is a Beeper?] (#what-is-a-beeper)
-  - [ How does it work?] (#how-does-it-work)
-- [Installation] (#installation)
-  - [Computer] (#computer)
-  - [Mobile Phone] (#mobile phone) 
-- [Instructions For Use] (#intructions-for-use)
-  - [Facebook] (#facebook)
-    - [Drivers] (#drivers)
-    - [Riders] (#riders)
-  - [Beeper App] (#beeper-app)
-    - [Drivers] (#drivers)
-    - [Riders] (#riders)
-- [Example] (#example)
-- [Support] (#support) 
-- [FAQs] (#faqs)
+- [Introduction](#introduction)
+  - [ What is a Beeper?](#what-is-a-beeper)
+  - [ How does it work?](#how-does-it-work)
+- [Installation](#installation)
+  - [Computer](#computer)
+  - [Mobile Phone](#mobile phone) 
+- [Instructions For Use](#intructions-for-use)
+  - [Facebook](#facebook)
+    - [Drivers](#drivers)
+    - [Riders](#riders)
+  - [Beeper App](#beeper-app)
+    - [Drivers](#drivers)
+    - [Riders](#riders)
+- [Example](#example)
+- [Support](#support) 
+- [FAQs](#faqs)
 
 ## Introduction
 
