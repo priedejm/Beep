@@ -47,7 +47,7 @@ Normally you have to download the Facebook app on the app store or google play s
 
 ### Facebook
 
-![Moderator explaing instructions!](https://ibb.co/ZYrwvRQ)
+[Moderator explaing instructions!](https://ibb.co/ZYrwvRQ)
 
 #### Drivers
 
@@ -79,7 +79,7 @@ Normally you have to download the Facebook app on the app store or google play s
 
 ## Example
 
-![Beep post](https://ibb.co/x2sHWXL)
+[Beep post](https://ibb.co/x2sHWXL)
 
 ## Support
 
